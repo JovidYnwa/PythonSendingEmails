@@ -5,9 +5,9 @@ The following project was made for Alif position (Middle Python developer).
 ## Description
 
 Project consists from three main files.
-	1) emailing.py has a function that delivers text messages to customer about their purchases.
-	2) main.py it is the main file that should be executed from shell (python main.py).
-	2) temporary_db.py this file consists from two variables that store information about customers and products. 
+	-1) emailing.py has a function that delivers text messages to customer about their purchases.
+	-2) main.py it is the main file that should be executed from shell (python main.py).
+	-2) temporary_db.py this file consists from two variables that store information about customers and products. 
 
 ## Getting Started
 
