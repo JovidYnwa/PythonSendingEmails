@@ -1,0 +1,14 @@
+DEBUG:root:cdfads
+DEBUG:root:cdfads
+DEBUG:root:cdfads
+DEBUG:root:customer id: 1 product id: 1
+DEBUG:root:customer id: 1 product id: 1
+DEBUG:root:customer id: 0 product id: 0
+ERROR:root:there is not susch a customer 2
+ERROR:root:there is not susch a customer 2
+ERROR:root:there is not susch a customer 2
+ERROR:root:there is not susch a customer 2
+ERROR:root:there is not susch a customer 2
+DEBUG:root:customer id: 0 product id: 0
+DEBUG:root:customer id: 0 product id: 1
+DEBUG:root:customer id: 0 product id: 1
