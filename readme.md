@@ -1,8 +1,6 @@
 # Middle Python developer	
 
-The following project was made for Alif position (Middle Python developer).  
 
-## Description
 
 Project consists from three main files.
 1) emailing.py has a function that delivers text messages to customer about their purchases.
